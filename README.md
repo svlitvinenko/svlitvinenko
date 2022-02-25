@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @svlitvinenko
+- 👀 I’m interested in Android & Flutter development;
+- 🌱 I’m currently learning Flutter framework to extend my knowledge and professional skills;
+- 📫 Post me a letter to [sv.litvinenko@outlook.com](mailto:sv.litvinenko@outlook.com).
